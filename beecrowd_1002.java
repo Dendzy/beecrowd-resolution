@@ -1,8 +1,9 @@
 import java.util.Scanner;
 import java.io.IOException;
 
-public class beecrowd_1002 {
+public class beecrowd_1002 { //Sempre colocar o "public class Main"
     public static void main(String [] args){
+        // Solução -
         Scanner leitor = new Scanner(System.in);
         Double raio = Double.parseDouble(leitor.nextLine());
         Double pi = 3.14159;
