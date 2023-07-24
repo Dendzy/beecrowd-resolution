@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.Locale; 
+
 public class beecrowd_1005 {
     public static void main (String [] args) { //Sempre colocar o "public class Main"
        // Solução -
