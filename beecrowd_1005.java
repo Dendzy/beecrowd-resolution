@@ -1,5 +1,5 @@
-import java.util.Scanner;
-import java.util.Locale; 
+import java.util.Scanner; //LEMBRE DE IMPORTAR O SCANNER PARA AS ENTRADAS DO USUÁRIO.
+import java.util.Locale; //Usada para representrar uma região geográfica
 
 public class beecrowd_1005 {
     public static void main (String [] args) { //Sempre colocar o "public class Main"
