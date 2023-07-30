@@ -2,17 +2,16 @@ import java.util.Scanner; //LEMBRE DE IMPORTAR O SCANNER PARA AS ENTRADAS DO USU
 import java.util.Locale; // IMPORTAR PARA USAR O "." AO INVÉS DAS ","
 public class beecrowd_1010 { //Sempre colocar o "public class Main"
     public static void main (String [] args){
-        // Solução -
+        // Solução -        
+        Locale.setDefault(Locale.US);
+        Scanner leitor = new Scanner(System.in);
+
         int codigo_peca1;
         int quantidade_peca1;
         double valor_unitario_peca1;
-
         int codigo_peca2;
         int quantidade_peca2;
         double valor_unitario_peca2;
-
-        Locale.setDefault(Locale.US);
-        Scanner leitor = new Scanner(System.in);
 
         codigo_peca1 = leitor.nextInt();
         quantidade_peca1 = leitor.nextInt();
