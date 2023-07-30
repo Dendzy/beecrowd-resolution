@@ -4,6 +4,7 @@ public class beecrowd_1009 { //Sempre colocar o "public class Main"
     public static void main (String [] args){
         // Solução - 
         Scanner leitor = new Scanner(System.in);
+        
         String nome_vendedor = leitor.nextLine();
         Double salario_fixo = Double.parseDouble(leitor.nextLine());
         Double vendas = Double.parseDouble(leitor.nextLine());
