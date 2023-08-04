@@ -1,8 +1,8 @@
-import java.util.Scanner;
+import java.util.Scanner; //LEMBRE DE IMPORTAR O SCANNER PARA AS ENTRADAS DO USUÁRIO.
 
-public class beecrowd_1018 {
+public class beecrowd_1018 { //Sempre colocar o "public class Main"
     public static void main(String [] args) {
-        
+        // Solução -
         Scanner leitor = new Scanner(System.in);
 
         int cedula = Integer.parseInt(leitor.nextLine());
