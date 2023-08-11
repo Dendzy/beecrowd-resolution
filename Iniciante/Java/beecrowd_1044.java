@@ -3,9 +3,9 @@ import java.util.Scanner; //LEMBRE DE IMPORTAR O SCANNER PARA AS ENTRADAS DO USU
 public class beecrowd_1044 { //Sempre colocar o "public class Main"
     public static void main (String [] args) {
         // Solução -
-        Scanner in = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
 
-        String numeros[] = in.nextLine().split(" ");
+        String numeros[] = input.nextLine().split(" ");
 
         int num1 = Integer.parseInt(numeros[0]);
         int num2 = Integer.parseInt(numeros[1]);
