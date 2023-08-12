@@ -1,6 +1,4 @@
 <h1>Beecrowd - 1000</h1>
-<sup>Hello World!</sup>
-<br><br>
 
 Bem-vindo ao **beecrowd!** <br>
 
