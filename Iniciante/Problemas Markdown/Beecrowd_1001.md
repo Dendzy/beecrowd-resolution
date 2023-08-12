@@ -1,24 +1,21 @@
-<h1>Beecrowd - 1000</h1>
-<sup>Hello World!</sup>
-<br><br>
+<h1>Beecrowd - 1001</h1>
 
-Bem-vindo ao **beecrowd!** <br>
-
-O seu primeiro programa em qualquer linguagem de programação normalmente é o **"Hello World!"**. Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
+Leia 2 valores inteiros e armazene-os nas variáveis **A** e **B**. Efetue a soma de **A** e **B** atribuindo o seu resultado na variável **X**. Imprima **X** conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá *"Presentation Error"*.
 <br>
 
 <h3>Entrada</h3>
-Este problema não possui nenhuma entrada.
+A entrada contém 2 valores inteiros.
 
 <h3>Saída</h3>
 
-Você deve imprimir a mensagem **"Hello World!"** e em seguida o final de linha, conforme o exemplo abaixo.
-<br><br>
-![imagem de demonstração:](https://github.com/Dendzy/beecrowd-resolution/assets/112651184/78c89ab6-6499-4ba4-a5f3-269d0fc68bda)
+Imprima a mensagem *"X = " (letra X maiúscula)* seguido pelo valor da variável **X** e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
+<br>
+<br>
+![imagem de demonstração:](https://github.com/Dendzy/beecrowd-resolution/assets/112651184/97bb4cb6-0e08-4726-bbc2-f7e444e85c2f)
 <br>
 
 <h2>Resolução:</h2>
 
-[**Java**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Java/beecrowd_1000.java)
+[**Java**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Java/beecrowd_1001.java)
 <br>
-[**JavaScript**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/JavaScript/beecrowd_1000.js)
+[**JavaScript**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/JavaScript/beecrowd_1001.js)
