@@ -1,36 +1,24 @@
-<h1>Iniciante:</h1>
+<h1>Beecrowd - 1000</h1>
+<sup>Hello World!</sup>
+<br><br>
 
-<h2>Problemas:</h2>
+Bem-vindo ao **beecrowd!** <br>
 
-- [x] **1000** - [*Hello World!*]()
-- [x] **1001** - [*Extremamente básico*]()
-- [x] **1002** - [*Área do Círculo*]()
-- [x] **1003** - [*Soma Simples*]()
-- [x] **1004** - [*Produto Simples*]()
-- [x] **1005** - [*Média 1*]()
-- [x] **1006** - [*Média 2*]()
-- [x] **1007** - [*Diferença*]()
-- [x] **1008** - [*Salário*]()
-- [x] **1009** - [*Salário com Bônus*]()
-- [x] **1010** - [*Cálculo Simples*]()
-- [x] **1011** - [*Esfera*]()
-- [x] **1012** - [*Área*]()
-- [x] **1013** - [*O Maior*]()
-- [x] **1014** - [*Consumo*]()
-- [x] **1015** - [*Distância Entre Dois Pontos*]()
-- [x] **1016** - [*Distância*]()
-- [x] **1017** - [*Gasto de Combustível*]()
-- [x] **1018** - [*Cédulas*]()
-- [x] **1019** - [*Conversão de Tempo*]()
-- [x] **1020** - [*Idade em Dias*]()
-- [x] **1021** - [*Notas e Moedas*]()
-- [x] **1035** - [*Teste de Seleção 1*]()
-- [x] **1036** - [*Fórmula de Bhaskara*]()
-- [x] **1037** - [*Intervalo*]()
-- [x] **1038** - [*Lanche*]()
-- [x] **1040** - [*Média 3*]()
-- [x] **1041** - [*Coordenadas de um Ponto*]()
-- [x] **1042** - [*Sort Simples*]()
-- [x] **1043** - [*Triângulo*]()
-- [x] **1044** - [*Múltiplos*]()
-- [x] **1045** - [*Tipos de Triângulos*]()
+O seu primeiro programa em qualquer linguagem de programação normalmente é o **"Hello World!"**. Neste primeiro problema tudo o que você precisa fazer é imprimir esta mensagem na tela.
+<br>
+
+<h3>Entrada</h3>
+Este problema não possui nenhuma entrada.
+
+<h3>Saída</h3>
+
+Você deve imprimir a mensagem **"Hello World!"** e em seguida o final de linha, conforme o exemplo abaixo.
+<br><br>
+![imagem de demonstração:](https://github.com/Dendzy/beecrowd-resolution/assets/112651184/78c89ab6-6499-4ba4-a5f3-269d0fc68bda)
+<br>
+
+<h2>Resolução:</h2>
+
+[**Java**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Java/beecrowd_1000.java)
+<br>
+[**JavaScript**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/JavaScript/beecrowd_1000.js)
