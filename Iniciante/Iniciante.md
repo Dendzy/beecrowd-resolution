@@ -2,7 +2,7 @@
 
 <h2>Problemas:</h2>
 
-- [x] **1000** - [*Hello World!*]()
+- [x] **1000** - [*Hello World!*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1000.md)
 - [x] **1001** - [*Extremamente básico*]()
 - [x] **1002** - [*Área do Círculo*]()
 - [x] **1003** - [*Soma Simples*]()
