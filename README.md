@@ -1,2 +1,6 @@
-# Exercícios Resolvidos do beecrowd.
-Resolução dos Exercícios do beecrowd, meu arquivo foi feito no visual studio code, então lembre de fazer as alterações necessárias para ser aceito na plataforma do beecrowd.
+# Beecrowd/URI - Resolução de Exercícios.
+Resolução dos exercícios do [Beecrowd](https://www.beecrowd.com.br/).<br>
+
+<h2>Problemas por Categoria:</h2>
+
+- [Iniciante](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Iniciante.md) Problemas que são utilizados para entender a sintaxe básica da programação.
