@@ -1,23 +1,21 @@
-<h1>Beecrowd - 1002</h1>
+<h1>Beecrowd - 1003</h1>
 
-A fórmula para calcular a área de uma circunferência é: **area = π . raio2.** Considerando para este problema que ***π*** = 3.14159:
-
-- Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
+Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável **SOMA**. A seguir escrever o valor desta variável.
 
 <h3>Entrada</h3>
 
-A entrada contém um valor de ponto flutuante (dupla precisão), no caso, a variável **raio.**
+O arquivo de entrada contém 2 valores inteiros.
 
 <h3>Saída</h3>
 
-Apresentar a mensagem *"A="* seguido pelo valor da variável **area**, conforme exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla precisão (double). Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá *"Presentation Error".*
+Imprima a mensagem *"SOMA"* com todas as letras maiúsculas, com um espaço em branco antes e depois da igualdade seguido pelo valor correspondente à soma de A e B. Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá *"Presentation Error".*
 <br>
 <br>
-![imagem de demonstração:](https://github.com/Dendzy/beecrowd-resolution/assets/112651184/c47a8c22-fc48-471a-9f5a-c50eacecd5d6)
+![imagem de demonstração:](https://github.com/Dendzy/beecrowd-resolution/assets/112651184/b9a6e05e-02af-4f2e-a5a2-2e8576fc5913)
 <br>
 
 <h2>Resolução:</h2>
 
-[**Java**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Java/beecrowd_1002.java)
+[**Java**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Java/beecrowd_1003.java)
 <br>
-[**JavaScript**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/JavaScript/beecrowd_1002.js)
+[**JavaScript**](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/JavaScript/beecrowd_1003.js)
