@@ -4,7 +4,7 @@
 
 - [x] **1000** - [*Hello World!*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1000.md)
 - [x] **1001** - [*Extremamente básico*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1001.md)
-- [x] **1002** - [*Área do Círculo*]()
+- [x] **1002** - [*Área do Círculo*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1002.md)
 - [x] **1003** - [*Soma Simples*]()
 - [x] **1004** - [*Produto Simples*]()
 - [x] **1005** - [*Média 1*]()
