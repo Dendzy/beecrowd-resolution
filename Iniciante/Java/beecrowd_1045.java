@@ -5,9 +5,9 @@ import java.util.Objects;
  * acabei usando esse import para comparar os valores quando iguais e me retornar a saída.
  */
 
-public class beecrowd_1045 {
+public class beecrowd_1045 { //Sempre colocar o "public class Main"
     public static void main (String [] args) {
-
+        // Solução -
         Locale.setDefault(Locale.US);
         Scanner input = new Scanner(System.in);
 
