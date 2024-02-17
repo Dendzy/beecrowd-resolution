@@ -11,7 +11,7 @@ Este problema não possui nenhuma entrada.
 <h3>Saída</h3>
 
 Você deve imprimir a mensagem **"Hello World!"** e em seguida o final de linha, conforme o exemplo abaixo.
-<br><br>
+<br>
 | Exemplo de Entrada | Exemplo de Saída |
 | --- | --- |
 |     | Hello World! |
