@@ -6,7 +6,7 @@
 - [x] **1001** - [*Extremamente básico*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1001.md)
 - [x] **1002** - [*Área do Círculo*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1002.md)
 - [x] **1003** - [*Soma Simples*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1003.md)
-- [x] **1004** - [*Produto Simples*]()
+- [x] **1004** - [*Produto Simples*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1004.md)
 - [x] **1005** - [*Média 1*]()
 - [x] **1006** - [*Média 2*]()
 - [x] **1007** - [*Diferença*]()
