@@ -9,7 +9,7 @@
 - [x] **1004** - [*Produto Simples*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1004.md)
 - [x] **1005** - [*Média 1*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1005.md)
 - [x] **1006** - [*Média 2*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1006.md)
-- [x] **1007** - [*Diferença*]()
+- [x] **1007** - [*Diferença*](https://github.com/Dendzy/beecrowd-resolution/blob/main/Iniciante/Problemas%20Markdown/Beecrowd_1007.md)
 - [x] **1008** - [*Salário*]()
 - [x] **1009** - [*Salário com Bônus*]()
 - [x] **1010** - [*Cálculo Simples*]()
