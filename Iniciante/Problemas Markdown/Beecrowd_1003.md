@@ -10,9 +10,13 @@ O arquivo de entrada contém 2 valores inteiros.
 
 Imprima a mensagem *"SOMA"* com todas as letras maiúsculas, com um espaço em branco antes e depois da igualdade seguido pelo valor correspondente à soma de A e B. Como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá *"Presentation Error".*
 <br>
-<br>
-![imagem de demonstração:](https://github.com/Dendzy/beecrowd-resolution/assets/112651184/b9a6e05e-02af-4f2e-a5a2-2e8576fc5913)
-<br>
+| Exemplo de Entrada | Exemplo de Saída |
+| --------- | -----------|
+|  30<br>10 | SOMA = 40  |
+| -30<br>10 | SOMA = -20 |
+|   0<br>0  | SOMA = 0   |
+
+
 
 <h2>Resolução:</h2>
 
