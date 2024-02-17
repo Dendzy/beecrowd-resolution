@@ -12,8 +12,9 @@ Este problema não possui nenhuma entrada.
 
 Você deve imprimir a mensagem **"Hello World!"** e em seguida o final de linha, conforme o exemplo abaixo.
 <br><br>
-![imagem de demonstração:](https://github.com/Dendzy/beecrowd-resolution/assets/112651184/78c89ab6-6499-4ba4-a5f3-269d0fc68bda)
-<br>
+| Exemplo de Entrada | Exemplo de Saída |
+| --- | --- |
+|     | Hello World! |
 
 <h2>Resolução:</h2>
 
